@@ -185,5 +185,18 @@
     font-size: 18px;
     color: #6c757d;
 }
+.quote-container {
+    margin: 20px 0;
+    background-color: #eef5ff; /* Light blue background for the quote */
+    border-radius: 8px;
+    padding: 10px 15px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.programming-quote {
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
 
 
